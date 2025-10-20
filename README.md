@@ -103,10 +103,6 @@ Stores configuration files for Nginx
 
 Contains reusable packages and utilities that can be shared across different parts of the project.
 
-### `utils`
-
-Includes utility functions and helper methods used throughout the project.
-
 ### `grafana`
 
 Contains configuration files and dashboards for monitoring application metrics using Grafana.
